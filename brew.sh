@@ -44,18 +44,9 @@ brew install grep
 brew install openssh
 brew install screen
 
-# Install font tools.
-brew tap bramstein/webfonttools
-brew install sfnt2woff
-brew install sfnt2woff-zopfli
-brew install woff2
-
 # Install other useful binaries.
-brew install ack
-#brew install exiv2
 brew install git
 brew install git-lfs
-brew install imagemagick --with-webp
 brew install lua
 brew install p7zip
 brew install pigz
